@@ -1,0 +1,1 @@
+The goal of this project is to port the **Adventure Works** sample database for MSSQL into MySQL.
